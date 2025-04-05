@@ -20,4 +20,5 @@ Select a base note for the octave VariationOctave will monitor.
 
 ## Changelog
 
+- 2025-04-05 [v2](https://github.com/zsteinkamp/m4l-VariationOctave/releases/download/v2/VariationOctave-v2.amxd) - Fix bug with held notes. :facepalm:
 - 2025-04-04 [v1](https://github.com/zsteinkamp/m4l-VariationOctave/releases/download/v1/VariationOctave-v1.amxd) - Initial release.
